@@ -1,0 +1,62 @@
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Office.Interop.Visio.WorkflowAuthoring.dll
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Office.Interop.Visio.WorkflowAuthoring.dll
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Office.Interop.Visio.WorkflowAuthoring.dll
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Document.NET.dll
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Pdf.dll
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Words.NET.dll
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Document.NET.xml
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Words.NET.xml
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Docs\GitHub\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Office.Interop.Visio.WorkflowAuthoring.dll
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Document.NET.dll
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Pdf.dll
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Words.NET.dll
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Document.NET.xml
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Xceed.Words.NET.xml
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\Praktyki - zadania\Praktyki - zadania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
